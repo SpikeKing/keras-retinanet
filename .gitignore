@@ -115,3 +115,7 @@ venv.bak/
 
 # data
 data/
+dataset/
+logs/
+annotations.txt
+classes.txt
